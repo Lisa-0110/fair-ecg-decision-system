@@ -1,0 +1,7 @@
+model,metric,worst_value,best_value,worst_group,stratification,gap_from_best
+logistic_regression,accuracy,0.7948717948717948,0.9375,41-65,Age,0.14262820512820518
+logistic_regression,fnr,0.5,0.0689655172413793,>65,Age,0.4310344827586207
+logistic_regression,fpr,0.3333333333333333,0.0,41-65,Age,0.3333333333333333
+random_forest,accuracy,0.7931034482758621,0.96875,>65,Age,0.1756465517241379
+random_forest,fnr,0.5,0.0344827586206896,>65,Age,0.4655172413793104
+random_forest,fpr,0.4,0.0,41-65,Age,0.4

@@ -1,0 +1,2 @@
+confidence_threshold,n_total,n_accepted,n_rejected,coverage,rejection_rate,accuracy_accepted,fnr_accepted,fpr_accepted,accuracy_rejected,accuracy_gain,accuracy_overall_conservative
+0.04,100.0,98.0,2.0,0.98,0.02,0.8163265306122449,0.06779661016949153,0.358974358974359,0.0,0.8163265306122449,0.8
